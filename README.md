@@ -1,7 +1,7 @@
 <table>
   <tr>
       <td align=center>
-       全球最新热播纪录片，获好莱坞等多项国际大奖，震撼心灵！
+       全球最新热播纪录片，获好莱坞等多项国际大奖，震撼心灵！<br/>
   </tr>
   <tr>
       <td align=center>
