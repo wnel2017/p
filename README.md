@@ -2,9 +2,9 @@
   <tr>
       <td align=center>
        全球最新热播纪录片，获好莱坞等多项国际大奖，震撼心灵！
-         </tr>
+  </tr>
   <tr>
-          <td align=center>
+      <td align=center>
  <a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?c816779&from=wnel">◆活摘十年调查（请点击观看）</a> <br/>
   <td align=left>
 ◆2017获好莱坞最佳导演奖、优秀外语纪录片奖。<br/>
