@@ -1,12 +1,12 @@
 <table>
   <tr>
-          <td align=center>
+          <td align=left>
  <a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?c816779&from=wnel">◆活摘十年调查</a> <br/>
  获好莱坞最佳导演奖、优秀外语纪录片奖。涉及多位政治局委员、国防部长、总后卫生部长。追查国际十年调查之精华尽在此片，是目前为止最完整的揭开活摘内幕的纪录片。
     </td>
   </tr>
   <tr>
-            <td align=center>
+            <td align=left>
  <a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?c816771&from=wnel">◆大卫战红魔</a> <br/>
  经授权，独家大陆播出。该片摄制历时8年，于2014年公映后反响强烈，获得多项国际大奖：2015年美国广播电视文化成就奖皮博迪奖、2015年国际广播电视协会AIB国际调查性纪录片奖、2015年麦克·苏利文前线记者奖、2014年全球电影人道精神奖、2014年Viewster网络电影节冠军等。已经在北美，欧洲，澳大利亚等20多个国家电视台播出，得到媒体的广泛关注。
 
@@ -18,12 +18,12 @@
     </td>
   </tr>
   <tr>
-          <td align=center>
+          <td align=left>
  <a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?c816779&from=wnel">◆铁证如山：头号史案◆残忍超越纳粹</a> <br/>
      </td>
   </tr>
   <tr>
-            <td align=center>
+            <td align=left>
  <a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?c816787&from=wnel">◆追查国际 “中共活摘器官 国家犯罪罪证”专家讲座</a> <br/>
    </tr>
 </table>   
