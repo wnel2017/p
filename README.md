@@ -6,6 +6,7 @@
   <tr>
           <td align=center>
  <a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?c816779&from=wnel">◆活摘十年调查（请点击观看）</a> <br/>
+  <td align=left>
 ◆2017获好莱坞最佳导演奖、优秀外语纪录片奖。<br/>
 ——涉及多位政治局委员、国防部长、总后卫生部长。追查国际十年调查之精华尽在此片，是目前为止最完整的揭开活摘内幕的纪录片。<br/>
 ◆本片95%的信息來源于中国大陆。<br/>
