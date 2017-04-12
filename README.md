@@ -45,6 +45,7 @@
     <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/%E5%A4%A7%E5%8D%AB%E6%88%98%E7%BA%A2%E9%AD%943.png" /></td>
    </tr>
   <tr>
+          <td align=center>
   ◆铁证如山：头号史案◆残忍超越纳粹<br/>
           <td align=left>
  <a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?2EC%2FZCGJ&current=2:1&from=wnel">请点击在线观看</a> <br/>
