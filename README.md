@@ -4,7 +4,8 @@
   </tr>
   <tr>
       <td align=center>
- <a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?c816779&from=wnel">◆活摘十年调查（请点击观看）</a> <br/>
+      ◆活摘十年调查◆2017获多项国际大奖<br/>
+ <a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?c816779&from=wnel">请点击在线观看 </a> <br/>
    </tr>
   <tr>
   <td align=left>
