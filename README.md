@@ -1,7 +1,6 @@
 <table>
   <tr>
-      <td align=center>
-       全球最新热播纪录片，获好莱坞等多项国际大奖，震撼心灵！<br/>
+    <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/%E7%BD%91%E9%97%A8%E7%8B%AC%E5%AE%B6.jpg" /></td>
   </tr>
   <tr>
       <td align=center>
