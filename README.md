@@ -3,6 +3,9 @@
     <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/%E7%8B%AC%E5%AE%B6.jpg" /></td>
   </tr>
   <tr>
+    <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/10%E5%B9%B4.png" /></td>
+  </tr>
+  <tr> 
       <td align=center>
       ◆活摘十年调查◆2017获多项国际大奖<br/>
  <a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?c816779&from=wnel">请点击在线观看 </a> <br/>
