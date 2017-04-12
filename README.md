@@ -53,7 +53,7 @@
   </tr>
   <tr> 
           <td align=center>
-◆追查国际 “中共活摘器官 国家犯罪罪证”专家讲座 <br/>
+◆“中共活摘器官 国家犯罪罪证”专家讲座 <br/>
  <a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?c816787&from=wnel">请点击在线观看</a> <br/>
    </tr>
   <tr>
