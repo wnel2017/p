@@ -30,7 +30,7 @@
 *与此同时，从2000年起，中国的器官移植业呈现出爆炸性的几倍、几十倍的增长<br/>
   </tr>
   <tr>
-    <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/10%E5%B9%B4.JPG" /></td>
+    <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/%E5%A4%A7%E5%8D%AB%E6%88%98%E7%BA%A2%E9%AD%943.png" /></td>
   </tr>
   <tr>
         <td align=center>
