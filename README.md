@@ -92,6 +92,13 @@
 <a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?c817056&from=wnel">请点击在线观看</a> <br/>
    </tr>
   <tr>
+<td align=center>
+微信如果提示：停止访问该网页<br/>
+请点击右上角，选择浏览器打开<br/>
+苹果用户复制到自带浏览器打开<br/>
+如打开慢，缓冲稍等或刷新<br/>
+    </tr>
+  <tr>
           <td align=center>
 ◆这种反人类罪恶至今还在中国继续◆<br/>
      </tr>
